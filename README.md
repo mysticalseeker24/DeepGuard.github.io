@@ -97,14 +97,3 @@ python3 ../../app.py
 ```
 
 ### Lastly set up neoX destnet on your metamask wallet and get some test tokens from [here](https://neoxwish.ngd.network/).
-
-## Our Contact info
-
-Team Name : < FigureOut />
-
-Team Members : Kartik Bindra, Hitesh Gupta, Devyansh
-Bhattacharya
-
-[Email](mailto:guptahitesh201105@gmail.com)
-
-Phone : +91 8595867129
