@@ -4,7 +4,7 @@
 
 ### Click for Video 👇🏻👇🏻
 
-[![Watch the video](public/deeptrace_cover.png)](https://youtu.be/k2KG_4mlOEo)
+[![Watch the video](public/deeptrace_cover.png)](https://www.youtube.com/watch?v=d-3529xkDvA&t=9s)
 
 **DeepTrace** is an innovative blockchain-based platform designed to combat the growing issue of deepfake videos by leveraging advanced technology and ensuring user privacy. By utilizing the immutable and decentralized nature of blockchain, DeepTrace delivers a highly accurate and trustworthy solution for detecting and mitigating deepfake content worldwide.
 
