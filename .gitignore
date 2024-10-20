@@ -26,6 +26,3 @@ dist-ssr
 *.sw?
 
 # Venv
-Deeptrace
-input_video.mp4
-models/icpr2020dfdc
